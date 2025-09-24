@@ -1,4 +1,4 @@
-[
+ee[
     {
         "device_id": "device123",
         "key": "key12345",
@@ -103,7 +103,7 @@
     },
   {
         "device_id": "d0d036313b5fa83b",
-        "key": "Official",
+        "key": "11",
         "expirydate": "25-09-2025",
         "Allowoffline": false
     },  
